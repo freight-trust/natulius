@@ -1,0 +1,21 @@
+{
+  "networkId": 5777,
+  "lmsrAddress": "0x2fd7958390F36A3349769eC3FF1ff18D1384d8dc",
+  "markets": [
+    {
+      "questionId": "0x4b22fe478b95fdaa835ddddf631ab29f12900b62061e0c5fd8564ddb7b684333",
+      "title": "Will the summer 2020 in Germany break again weather records? ",
+      "outcomes": [
+        {
+          "title": "Yes",
+          "short": "Yes"
+        },
+        {
+          "title": "No",
+          "short": "No"
+        }
+      ]
+    }
+  ],
+  "network": "ropsten"
+}
